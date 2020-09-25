@@ -2,11 +2,11 @@
 ### Inferential study of the hotspots associated with Covid-19 and Natural Disasters in the United States
 ***AUTHORS:***<br>
 **Matt Paterson, Data Science Fellow, General Assembly, hello@HireMattPaterson.com**<br>
-<t>***COVID-19 Data***</t>
+<t>***COVID-19 Data***</t><br>
 **Eric Laverdiere, Data Science Fellow, General Assembly, laverdiere.eric@gmail.com**<br>
-<t>***USGS Earthquake Data, Tableau Map Generations***</t>
+<t>***USGS Earthquake Data, Tableau Map Generations***</t><br>
 **Matthew Burrell, Data Science Fellow, General Assembly, matthew_burrell@outlook.com**<br>
-<t>***NOAA Weather Data***</t>
+<t>***NOAA Weather Data***</t><br>
 
 ### How risky is our county?
 **Using data related to the deaths from COVID-19 and instances of earthquakes, wildfires, droughts, tornadoes and hurricanes over the last twenty years, and major weather events of the last thirty years, this project creates a user interface that illustrates the relative risks of each.**
